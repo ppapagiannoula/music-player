@@ -5,6 +5,11 @@
     box-sizing: border-box;
 }
 
+:root {
+    --basiccolor: aliceblue;
+    --text-shadow: 2px 2px 5px rgb(230, 152, 253);
+}
+
 /*---------- MAIN STYLING ----------*/
 body {
     background: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #46eefa, #5ffbf1);
@@ -28,11 +33,6 @@ body {
     100% {
         background-position: 0% 50%;
     }
-}
-
-a {
-    text-decoration: none;
-    cursor: pointer;
 }
 
 /*-------- fonts ----------*/
@@ -76,12 +76,12 @@ a {
 .now-playing {
     font-size: 1rem;
     font-family: secondfont;
-    color: aliceblue;
+    color: var(--basiccolor);
 }
 
 .track-name {
     font-size: 1.5em;
-    color: aliceblue;
+    color: var(--basiccolor);
     font-family: secondfont;
 }
 
@@ -89,8 +89,8 @@ a {
     font-size: 1em;
     font-family: firstfont;
     padding-top: 5px;
-    color: aliceblue;
-    text-shadow: 2px 2px 5px rgb(230, 152, 253);
+    color: var(--basiccolor);
+    text-shadow: var(--text-shadow);
 }
 
 /*flex with the row direction to align items in a horizontal direction */
@@ -129,7 +129,7 @@ a {
 .volume_slider {
     appearance: none;
     height: 5px;
-    background: aliceblue;
+    background: var(--basiccolor);
     opacity: 0.7;
     transition: opacity .2s;
 }
@@ -149,15 +149,11 @@ a {
 }
 
 .current-time,
-.total-duration {
-    padding: 10px;
-    color: aliceblue;
-}
-
+.total-duration,
 i.fa-volume-down,
 i.fa-volume-up {
     padding: 10px;
-    color: aliceblue;
+    color: var(--basiccolor);
 }
 
 i.fa-play-circle,
@@ -165,7 +161,7 @@ i.fa-pause-circle,
 i.fa-step-forward,
 i.fa-step-backward {
     cursor: pointer;
-    color: aliceblue;
+    color: var(--basiccolor);
 }
 
 /*------music player end------*/
