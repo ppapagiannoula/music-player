@@ -1,5 +1,3 @@
-# music-player
-music player with animated background
 <h1> Hey there! I'm Paraskevi 👋 </h1>
 <img align="right" alt="GIF" src="https://gifdb.com/images/high/kagamine-len-singing-vocaloid-vauiask797ixqj9e.webp" width="100"/>
 <h2> 👨🏻‍💻 About the project </h2>
@@ -8,8 +6,8 @@ music player with animated background
 
 
 <h2>Running the project</h2>
-- &nbsp;Just clone the project
-- &nbsp;Open with Visual Studio and have fun 
+<h3>- Just clone the project</h3>
+<h3>- Open with Visual Studio and have fun </h3>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
