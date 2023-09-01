@@ -2,12 +2,12 @@
 <img align="right" alt="GIF" src="https://gifdb.com/images/high/kagamine-len-singing-vocaloid-vauiask797ixqj9e.webp" width="200"/>
 <h2> 👨🏻‍💻 About the project </h2>
 
-<h3> This is a music player with specific songs and animated background while trying to learn JavaScript </h3>
+<h3> This is a music player with specific songs and animated background whith vanilla JavaScript </h3>
 
 
 <h2>Running the project</h2>
 <h3>- Just clone the project</h3>
-<h3>- Open with Visual Studio and have fun </h3>
+<h3>- Open with Visual Studio and have fun 😊 </h3>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
