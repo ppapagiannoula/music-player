@@ -1,5 +1,5 @@
 <h1> Hey there! I'm Paraskevi 👋 </h1>
-<img align="right" alt="GIF" src="https://gifdb.com/images/high/kagamine-len-singing-vocaloid-vauiask797ixqj9e.webp" width="100"/>
+<img align="right" alt="GIF" src="https://gifdb.com/images/high/kagamine-len-singing-vocaloid-vauiask797ixqj9e.webp" width="200"/>
 <h2> 👨🏻‍💻 About the project </h2>
 
 <h3> This is a music player with specific songs and animated background while trying to learn JavaScript </h3>
